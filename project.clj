@@ -7,3 +7,4 @@
                  [org.clojure/core.async "0.2.395"]]
 
   :aot [number-cruncher.core])
+  :main number-cruncher.threads)
