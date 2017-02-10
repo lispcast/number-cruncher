@@ -6,5 +6,5 @@
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [org.clojure/core.async "0.2.395"]]
 
-  :aot [number-cruncher.core])
+  :aot [number-cruncher.core number-cruncher.main number-cruncher.exception]
   :main number-cruncher.threads)
