@@ -1,9 +1,10 @@
 # number-cruncher
 
-Code to accompany the [course][course], part of
-[PurelyFunctional.tv Online Mentoring][mentoring].
+Code to accompany the [JVM Fundamentals for Clojure
+course][course], part of [PurelyFunctional.tv Online
+Mentoring][mentoring].
 
-[course]: https://purelyfunctional.tv/
+[course]: https://purelyfunctional.tv/courses/jvm-clojure/
 [mentoring]: https://purelyfunctional.tv/
 
 ## License
