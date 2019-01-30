@@ -3,8 +3,8 @@
   :url "https://purelyfunctional.tv/"
   :license {:name "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication"
             :url "http://creativecommons.org/publicdomain/zero/1.0/"}
-  :dependencies [[org.clojure/clojure "1.8.0"]
+  :dependencies [[org.clojure/clojure "1.10.0"]
                  [org.clojure/core.async "0.2.395"]]
 
-  :aot [number-cruncher.core])
+  :aot [number-cruncher.core number-cruncher.main number-cruncher.exception]
   :main number-cruncher.threads)
